@@ -16,6 +16,7 @@
 
 ## Domanda 3 - Formula Complessa
 Trova l'integrale di \\( f(x) = x^2 \\):
+
 \\[
 \\int x^2 \\, dx = \\frac{x^3}{3} + C
 \\]
